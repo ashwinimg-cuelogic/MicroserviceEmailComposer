@@ -11,7 +11,7 @@
  ```
 
 
- INTRODUCTION
+ Introduction
 ------------
 
 This is the lambda function triggered on the update/insert in the EmailComposer table.
@@ -32,7 +32,7 @@ This Microservice uses following:
 * [Grunt] - the streaming build system for deoploying and testing lambda functions
 
 
-REQUIREMENTS
+Requirements
 ------------
 
 This project requires following tools (need to install globally):
@@ -52,7 +52,7 @@ add .env file at the root of the directory with the following values
 >MICROSERVICE_EMAIL_COMPOSER_ARN = "ARN_OF_THE_LAMBDA_FUNCTION"
 
 
-INSTALLATION
+Installation
 ------------
 
 To setup this project, run the command below in your repository:
