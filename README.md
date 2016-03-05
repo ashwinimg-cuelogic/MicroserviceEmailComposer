@@ -58,6 +58,6 @@ INSTALLATION
 To setup this project, run the command below in your repository:
 
 ```sh
-composer install
+npm install
 ```
 
